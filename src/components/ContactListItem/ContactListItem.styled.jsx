@@ -27,8 +27,8 @@ export const RemoveBtn = styled.button`
   text-transform: uppercase;
   color: #ffffff;
   border: none;
-  background-color: #ffc800;
-  text-shadow: 1px 1px 2px #505050;
+  background-color: #117fe2;
+  text-shadow: 1px 1px 2px #117fe2;
   transition: background-color 250ms linear;
   cursor: pointer;
 

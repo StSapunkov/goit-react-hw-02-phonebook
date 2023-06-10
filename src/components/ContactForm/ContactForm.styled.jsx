@@ -56,8 +56,8 @@ export const SubmitBtn = styled.button`
   text-transform: uppercase;
   font-weight: 700;
   background-color: #008000;
-  color: #ffffff;
-  text-shadow: 1px 1px 2px #505050;
+  color: #ffecb3;
+  text-shadow: 1px 1px 2px #000000;
   border: none;
   border-radius: 8px;
   cursor: pointer;
